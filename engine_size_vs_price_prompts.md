@@ -27,3 +27,11 @@ These are the prompts I used with my AI assistant (GitHub Copilot) to build `eng
 ## Prompt 3
 
 > you rock, can i get a engine_size_vs_price_prompts.md file with my prompts, including your questions and my responses, for posterity of this session, including this prompt, thanks
+
+## Prompt 4
+
+> does it make any difference about what is on x or y axis?
+
+## Prompt 5
+
+> update my prompt md file for this session too
